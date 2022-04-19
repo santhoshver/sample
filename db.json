@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "label": "Personal",
+    "code": "#00B8D9"
+  },
+  {
+    "id": 2,
+    "label": "Shopping",
+    "code": "#0052CC"
+  },
+  {
+    "id": 3,
+    "label": "Work",
+    "code": "#5243AA"
+  }
+]
