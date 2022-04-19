@@ -1,19 +1,19 @@
 {
   "projects":[
       {
-        "id": 1,
+        "value": 1,
         "label": "Personal",
-        "code": "#00B8D9"
+        "color": "#00B8D9"
       },
       {
-        "id": 2,
+        "value": 2,
         "label": "Shopping",
-        "code": "#0052CC"
+        "color": "#0052CC"
       },
       {
-        "id": 3,
+        "value": 3,
         "label": "Work",
-        "code": "#5243AA"
+        "color": "#5243AA"
       }
     ]
 }
